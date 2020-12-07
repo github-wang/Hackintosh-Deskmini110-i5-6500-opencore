@@ -1,0 +1,1 @@
+# Deskmini110-i5-7600k-opencore
