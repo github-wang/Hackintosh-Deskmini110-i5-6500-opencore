@@ -10,5 +10,5 @@
 + M.2  PCIe m2 NVMe 500SSD
 + 内存 DDR4 16G RAM
 + 系统  macOS Catalina 10.15.7(19H15)
-+ 引导  OpenCore 0.6.3
++ 引导  OpenCore 0.6.4
 + 机型  iMac17,1
