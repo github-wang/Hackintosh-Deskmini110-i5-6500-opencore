@@ -9,6 +9,6 @@
 + 无线 Intel® 7260AC
 + M.2  PCIe m2 NVMe 500SSD
 + 内存 DDR4 16G RAM
-+ 系统  macOS Catalina 10.15.7(19H15)
++ 系统  macOS bigsur 11.0.1(20b50)
 + 引导  OpenCore 0.6.4
 + 机型  iMac17,1
