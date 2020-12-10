@@ -1,7 +1,7 @@
 # Deskmini110-i5-7600k-opencore
 + 硬件&系统
 + 名称 型号版本
-+ 主板 Deskmini110
++ 主板 Deskmini-110
 + CPU  Intel i5 7600k
 + 核显 Intel HD Graphics 630
 + 声卡  Realtek ALC283
@@ -11,4 +11,4 @@
 + 内存 DDR4 16G RAM
 + 系统  macOS bigsur 11.0.1(20b50)
 + 引导  OpenCore 0.6.4
-+ 机型  iMac17,1
++ 机型  iMac18,1
