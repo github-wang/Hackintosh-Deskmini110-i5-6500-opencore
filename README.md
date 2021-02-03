@@ -2,7 +2,7 @@
 + 硬件&系统
 + 名称 型号版本
 + 主板 Deskmini-110
-+ CPU  Intel i5 7600k
++ CPU  Intel i3 6100
 + 核显 Intel HD Graphics 630
 + 声卡  Realtek ALC283
 + 网卡  Intel® Gigabit I219V
