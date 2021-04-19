@@ -11,4 +11,4 @@
 + 内存 DDR4 16G RAM
 + 系统  macOS bigsur 11.0.1(20b50)
 + 引导  OpenCore 0.6.4
-+ 机型  iMac18,1
++ 机型  iMac17,1
