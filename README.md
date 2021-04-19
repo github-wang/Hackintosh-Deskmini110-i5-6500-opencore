@@ -1,8 +1,8 @@
-# Deskmini110-i5-7600k-opencore
+# Deskmini110-i5-6500-opencore
 + 硬件&系统
 + 名称 型号版本
 + 主板 Deskmini-110
-+ CPU  Intel i3 6100
++ CPU  Intel i5 6500
 + 核显 Intel HD Graphics 630
 + 声卡  Realtek ALC283
 + 网卡  Intel® Gigabit I219V
