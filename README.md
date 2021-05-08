@@ -12,4 +12,5 @@
 + 系统  macOS catalina 10.15.7 (19H1030)
 + 引导  OpenCore 0.6.4
 + 机型  iMac17,1
-+ 系统关于 ![](https://pic.imgdb.cn/item/60969c4bd1a9ae528fe1d07e.png)+ 
++ 系统关于 
++ ![](https://pic.imgdb.cn/item/60969c4bd1a9ae528fe1d07e.png)+ 
