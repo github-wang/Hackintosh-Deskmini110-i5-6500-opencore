@@ -13,5 +13,4 @@
 + 引导  OpenCore 0.6.4
 + 机型  iMac17,1
 + 系统关于 
-
-<img src="https://pic.imgdb.cn/item/60969c4bd1a9ae528fe1d07e.png">
+![image](https://github.com/github-wang/Hackintosh-Deskmini110-i5-6500-opencore/blob/main/%E6%88%AA%E5%B1%8F2021-05-08%20%E4%B8%8B%E5%8D%889.40.37.png)
