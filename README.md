@@ -12,4 +12,5 @@
 + 系统  macOS catalina 10.15.7 (19H1030)
 + 引导  OpenCore 0.6.4
 + 机型  iMac17,1
-https://github.com/github-wang/Hackintosh-Deskmini110-i5-6500-opencore/blob/main/%E6%88%AA%E5%B1%8F2021-05-08%20%E4%B8%8B%E5%8D%889.40.37.png
++ 系统关于https://i.loli.net/2021/05/08/b3SiLky5w1PHAqC.png
++ 
